@@ -171,3 +171,7 @@
 .tasks-list .tasks-list-item.edit-mode .task-label {
   display: none;
 }
+
+#create-task {
+  margin: 1em 0;
+}
